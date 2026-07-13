@@ -1,0 +1,6 @@
+{
+  "name": "Milk Diary",
+  "description": "Track daily milk sales, manage customer accounts, generate automated billing, and send payment reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
